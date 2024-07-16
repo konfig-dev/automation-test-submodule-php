@@ -2,7 +2,7 @@
 
 SDKs (no submodules) to test automation workflows.
 
-[![Packagist](https://img.shields.io/badge/Packagist-v1.0.3-blue)](https://packagist.org/packages/konfig/automation-test-submodule-php)
+[![Packagist](https://img.shields.io/badge/Packagist-v1.0.4-blue)](https://packagist.org/packages/konfig/automation-test-submodule-php)
 
 ## Table of Contents<a id="table-of-contents"></a>
 
@@ -37,7 +37,7 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
     }
   ],
   "require": {
-    "konfig/automation-test-submodule-php": "1.0.3"
+    "konfig/automation-test-submodule-php": "1.0.4"
   }
 }
 ```
